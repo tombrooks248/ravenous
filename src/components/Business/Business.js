@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import './business.css';
 
 
 const business = {
@@ -38,3 +39,5 @@ class Business extends React.Component {
         )
     }
 }
+
+export default Business;
